@@ -1,5 +1,4 @@
 <%@ page import="java.util.List" %>
-<%@ page import="logica.Producto" %>
 <%@ page import="logica.ClaseProducto" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
